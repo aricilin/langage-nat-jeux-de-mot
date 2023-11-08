@@ -1,0 +1,618 @@
+[
+ {
+  "r": "0",
+  "nom": "r_associated"
+ },
+ {
+  "r": "1",
+  "nom": "r_raff_sem"
+ },
+ {
+  "r": "2",
+  "nom": "r_raff_morpho"
+ },
+ {
+  "r": "3",
+  "nom": "r_domain"
+ },
+ {
+  "r": "4",
+  "nom": "r_pos"
+ },
+ {
+  "r": "5",
+  "nom": "r_syn"
+ },
+ {
+  "r": "6",
+  "nom": "r_isa"
+ },
+ {
+  "r": "7",
+  "nom": "r_anto"
+ },
+ {
+  "r": "8",
+  "nom": "r_hypo"
+ },
+ {
+  "r": "9",
+  "nom": "r_has_part"
+ },
+ {
+  "r": "10",
+  "nom": "r_holo"
+ },
+ {
+  "r": "11",
+  "nom": "r_locution"
+ },
+ {
+  "r": "12",
+  "nom": "r_flpot"
+ },
+ {
+  "r": "13",
+  "nom": "r_agent"
+ },
+ {
+  "r": "14",
+  "nom": "r_patient"
+ },
+ {
+  "r": "15",
+  "nom": "r_lieu"
+ },
+ {
+  "r": "16",
+  "nom": "r_instr"
+ },
+ {
+  "r": "17",
+  "nom": "r_carac"
+ },
+ {
+  "r": "18",
+  "nom": "r_data"
+ },
+ {
+  "r": "19",
+  "nom": "r_lemma"
+ },
+ {
+  "r": "20",
+  "nom": "r_has_magn"
+ },
+ {
+  "r": "21",
+  "nom": "r_has_antimagn"
+ },
+ {
+  "r": "22",
+  "nom": "r_family"
+ },
+ {
+  "r": "23",
+  "nom": "r_carac-1"
+ },
+ {
+  "r": "24",
+  "nom": "r_agent-1"
+ },
+ {
+  "r": "25",
+  "nom": "r_instr-1"
+ },
+ {
+  "r": "26",
+  "nom": "r_patient-1"
+ },
+ {
+  "r": "27",
+  "nom": "r_domain-1"
+ },
+ {
+  "r": "28",
+  "nom": "r_lieu-1"
+ },
+ {
+  "r": "29",
+  "nom": "r_chunk_pred"
+ },
+ {
+  "r": "30",
+  "nom": "r_lieu_action"
+ },
+ {
+  "r": "31",
+  "nom": "r_action_lieu"
+ },
+ {
+  "r": "32",
+  "nom": "r_sentiment"
+ },
+ {
+  "r": "33",
+  "nom": "r_error"
+ },
+ {
+  "r": "34",
+  "nom": "r_manner"
+ },
+ {
+  "r": "35",
+  "nom": "r_meaning/glose"
+ },
+ {
+  "r": "36",
+  "nom": "r_infopot"
+ },
+ {
+  "r": "37",
+  "nom": "r_telic_role"
+ },
+ {
+  "r": "38",
+  "nom": "r_agentif_role"
+ },
+ {
+  "r": "39",
+  "nom": "r_verbe-action"
+ },
+ {
+  "r": "40",
+  "nom": "r_action-verbe"
+ },
+ {
+  "r": "41",
+  "nom": "r_conseq"
+ },
+ {
+  "r": "42",
+  "nom": "r_causatif"
+ },
+ {
+  "r": "43",
+  "nom": "r_adj-verbe"
+ },
+ {
+  "r": "44",
+  "nom": "r_verbe-adj"
+ },
+ {
+  "r": "45",
+  "nom": "r_chunk_sujet"
+ },
+ {
+  "r": "46",
+  "nom": "r_chunk_objet"
+ },
+ {
+  "r": "47",
+  "nom": "r_chunk_loc"
+ },
+ {
+  "r": "48",
+  "nom": "r_chunk_instr"
+ },
+ {
+  "r": "49",
+  "nom": "r_time"
+ },
+ {
+  "r": "50",
+  "nom": "r_object>mater"
+ },
+ {
+  "r": "51",
+  "nom": "r_mater>object"
+ },
+ {
+  "r": "52",
+  "nom": "r_successeur-time"
+ },
+ {
+  "r": "53",
+  "nom": "r_make"
+ },
+ {
+  "r": "54",
+  "nom": "r_product_of"
+ },
+ {
+  "r": "55",
+  "nom": "r_against"
+ },
+ {
+  "r": "56",
+  "nom": "r_against-1"
+ },
+ {
+  "r": "57",
+  "nom": "r_implication"
+ },
+ {
+  "r": "58",
+  "nom": "r_quantificateur"
+ },
+ {
+  "r": "59",
+  "nom": "r_masc"
+ },
+ {
+  "r": "60",
+  "nom": "r_fem"
+ },
+ {
+  "r": "61",
+  "nom": "r_equiv"
+ },
+ {
+  "r": "62",
+  "nom": "r_manner-1"
+ },
+ {
+  "r": "63",
+  "nom": "r_agentive_implication"
+ },
+ {
+  "r": "64",
+  "nom": "r_has_instance"
+ },
+ {
+  "r": "65",
+  "nom": "r_verb_real"
+ },
+ {
+  "r": "66",
+  "nom": "r_chunk_head"
+ },
+ {
+  "r": "67",
+  "nom": "r_similar"
+ },
+ {
+  "r": "68",
+  "nom": "r_set>item"
+ },
+ {
+  "r": "69",
+  "nom": "r_item>set"
+ },
+ {
+  "r": "70",
+  "nom": "r_processus>agent"
+ },
+ {
+  "r": "71",
+  "nom": "r_variante"
+ },
+ {
+  "r": "72",
+  "nom": "r_syn_strict"
+ },
+ {
+  "r": "73",
+  "nom": "r_is_smaller_than"
+ },
+ {
+  "r": "74",
+  "nom": "r_is_bigger_than"
+ },
+ {
+  "r": "75",
+  "nom": "r_accomp"
+ },
+ {
+  "r": "76",
+  "nom": "r_processus>patient"
+ },
+ {
+  "r": "77",
+  "nom": "r_verb_ppas"
+ },
+ {
+  "r": "78",
+  "nom": "r_cohypo"
+ },
+ {
+  "r": "79",
+  "nom": "r_verb_ppre"
+ },
+ {
+  "r": "80",
+  "nom": "r_processus>instr"
+ },
+ {
+  "r": "99",
+  "nom": "r_der_morpho"
+ },
+ {
+  "r": "100",
+  "nom": "r_has_auteur"
+ },
+ {
+  "r": "101",
+  "nom": "r_has_personnage"
+ },
+ {
+  "r": "102",
+  "nom": "r_can_eat"
+ },
+ {
+  "r": "103",
+  "nom": "r_has_actors"
+ },
+ {
+  "r": "104",
+  "nom": "r_deplac_mode"
+ },
+ {
+  "r": "105",
+  "nom": "r_has_interpret"
+ },
+ {
+  "r": "106",
+  "nom": "r_color"
+ },
+ {
+  "r": "107",
+  "nom": "r_cible"
+ },
+ {
+  "r": "108",
+  "nom": "r_symptomes"
+ },
+ {
+  "r": "109",
+  "nom": "r_predecesseur-time"
+ },
+ {
+  "r": "110",
+  "nom": "r_diagnostique"
+ },
+ {
+  "r": "111",
+  "nom": "r_predecesseur-space"
+ },
+ {
+  "r": "112",
+  "nom": "r_successeur-space"
+ },
+ {
+  "r": "113",
+  "nom": "r_social_tie"
+ },
+ {
+  "r": "114",
+  "nom": "r_tributary"
+ },
+ {
+  "r": "115",
+  "nom": "r_sentiment-1"
+ },
+ {
+  "r": "116",
+  "nom": "r_linked-with"
+ },
+ {
+  "r": "117",
+  "nom": "r_foncteur"
+ },
+ {
+  "r": "118",
+  "nom": "r_comparison"
+ },
+ {
+  "r": "119",
+  "nom": "r_but"
+ },
+ {
+  "r": "120",
+  "nom": "r_but-1"
+ },
+ {
+  "r": "121",
+  "nom": "r_own"
+ },
+ {
+  "r": "122",
+  "nom": "r_own-1"
+ },
+ {
+  "r": "123",
+  "nom": "r_verb_aux"
+ },
+ {
+  "r": "124",
+  "nom": "r_predecesseur-logic"
+ },
+ {
+  "r": "125",
+  "nom": "r_successeur-logic"
+ },
+ {
+  "r": "126",
+  "nom": "r_isa-incompatible"
+ },
+ {
+  "r": "127",
+  "nom": "r_incompatible"
+ },
+ {
+  "r": "128",
+  "nom": "r_node2relnode"
+ },
+ {
+  "r": "129",
+  "nom": "r_require"
+ },
+ {
+  "r": "130",
+  "nom": "r_is_instance_of"
+ },
+ {
+  "r": "131",
+  "nom": "r_is_concerned_by"
+ },
+ {
+  "r": "132",
+  "nom": "r_symptomes-1"
+ },
+ {
+  "r": "133",
+  "nom": "r_units"
+ },
+ {
+  "r": "134",
+  "nom": "r_promote"
+ },
+ {
+  "r": "135",
+  "nom": "r_circumstances"
+ },
+ {
+  "r": "136",
+  "nom": "r_has_auteur-1"
+ },
+ {
+  "r": "137",
+  "nom": "r_processus>agent-1"
+ },
+ {
+  "r": "138",
+  "nom": "r_processus>patient-1"
+ },
+ {
+  "r": "139",
+  "nom": "r_processus>instr-1"
+ },
+ {
+  "r": "149",
+  "nom": "r_compl_agent"
+ },
+ {
+  "r": "150",
+  "nom": "r_beneficiaire"
+ },
+ {
+  "r": "151",
+  "nom": "r_descend_de"
+ },
+ {
+  "r": "152",
+  "nom": "r_domain_subst"
+ },
+ {
+  "r": "153",
+  "nom": "r_prop"
+ },
+ {
+  "r": "154",
+  "nom": "r_activ_voice"
+ },
+ {
+  "r": "155",
+  "nom": "r_make_use_of"
+ },
+ {
+  "r": "156",
+  "nom": "r_is_used_by"
+ },
+ {
+  "r": "157",
+  "nom": "r_adj-nomprop"
+ },
+ {
+  "r": "158",
+  "nom": "r_nomprop-adj"
+ },
+ {
+  "r": "159",
+  "nom": "r_adj-adv"
+ },
+ {
+  "r": "160",
+  "nom": "r_adv-adj"
+ },
+ {
+  "r": "161",
+  "nom": "r_homophone"
+ },
+ {
+  "r": "162",
+  "nom": "r_potential_confusion"
+ },
+ {
+  "r": "163",
+  "nom": "r_concerning"
+ },
+ {
+  "r": "164",
+  "nom": "r_adj>nom"
+ },
+ {
+  "r": "165",
+  "nom": "r_nom>adj"
+ },
+ {
+  "r": "166",
+  "nom": "r_opinion_of"
+ },
+ {
+  "r": "200",
+  "nom": "r_context"
+ },
+ {
+  "r": "333",
+  "nom": "r_translation"
+ },
+ {
+  "r": "444",
+  "nom": "r_link"
+ },
+ {
+  "r": "555",
+  "nom": "r_cooccurrence"
+ },
+ {
+  "r": "666",
+  "nom": "r_aki"
+ },
+ {
+  "r": "777",
+  "nom": "r_wiki"
+ },
+ {
+  "r": "997",
+  "nom": "r_annotation_exception"
+ },
+ {
+  "r": "998",
+  "nom": "r_annotation"
+ },
+ {
+  "r": "999",
+  "nom": "r_inhib"
+ },
+ {
+  "r": "1000",
+  "nom": "r_prev"
+ },
+ {
+  "r": "1001",
+  "nom": "r_succ"
+ },
+ {
+  "r": "1002",
+  "nom": "r_termgroup"
+ },
+ {
+  "r": "2000",
+  "nom": "r_raff_sem-1"
+ },
+ {
+  "r": "2001",
+  "nom": "r_learning_model"
+ }
+]
